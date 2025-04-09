@@ -19,19 +19,19 @@ Highlight critical health indicators such as cholesterol, blood pressure, and ch
 
 **Libraries**:
 **Data Manipulation:** pandas, numpy
-**Visualization:**seaborn, matplotlib
+**Visualization:** seaborn, matplotlib
 **Machine Learning:** scikit-learn
 
 **Models Used:**
-Logistic Regression
-Random Forest Classifier
-Gaussian Naïve Bayes
-Support Vector Machine (SVM)
+Logistic Regression,
+Random Forest Classifier,
+Gaussian Naïve Bayes,
+Support Vector Machine (SVM).
 
 **Evaluation Metrics:**
-Accuracy Score
-Confusion Matrix
-Classification Report
+Accuracy Score,
+Confusion Matrix,
+Classification Report.
 
 📊 **Dataset**
 The dataset contains multiple health-related features like age, sex, cholesterol, resting blood pressure, max heart rate, ST depression, and more.
