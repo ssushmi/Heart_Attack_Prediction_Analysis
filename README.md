@@ -1,4 +1,5 @@
 **Heart Attack Prediction using Machine Learning**
+
 📌 Overview
 This project focuses on building a predictive model to identify individuals at risk of heart attacks using various machine learning algorithms. With heart disease being one of the leading causes of death worldwide, early detection through data-driven insights can support timely intervention and treatment. The project evaluates the performance of Logistic Regression, Random Forest, Naïve Bayes, and Support Vector Machine (SVM) classifiers on a heart disease dataset.
 
