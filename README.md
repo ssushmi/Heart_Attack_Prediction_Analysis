@@ -1,4 +1,4 @@
-                                                       💓 **Heart Attack Prediction using Machine Learning**
+                                                       💓 __Heart Attack Prediction using Machine Learning__
 
 
 📌 **Overview**
